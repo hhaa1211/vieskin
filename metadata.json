@@ -1,0 +1,8 @@
+{
+  "name": "VieSkin",
+  "description": "Nền tảng khám phá, thẩm định điển tích và phối trang phục truyền thống Việt Nam chuẩn mực kết hợp phong cách đương đại cho Gen Z.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
